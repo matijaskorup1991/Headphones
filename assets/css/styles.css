@@ -8,7 +8,6 @@
 
 html {
   margin: 0 auto;
-  max-width: 1440px;
   font-family: 'Work Sans', sans-serif;
   scroll-behavior: smooth;
 }
@@ -762,7 +761,7 @@ header .header-nav ul li:nth-of-type(5) {
 
 @media (max-width: 2000px) {
   header .header-nav {
-    margin-right: 20%;
+    margin-right: 5%;
   }
 }
 
